@@ -2,6 +2,8 @@
 
 **This script gets all the files in the scripts folder and runs exec on it, after which it outputs HTML to show a list of passes and failures.**
 
+```**This project is licensed under the terms of the MIT license**```
+
 ## Supported Languages
 
 **Javascript | PHP | Python | Java | Dart**
