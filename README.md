@@ -34,6 +34,8 @@ FullName supports up to 4 names.
 
 **DON'T ADD YOUR SCRIPT TO THE ROOT DIRECTORY OF THIS PROJECT**
 ```yaml
+
+    ## To host locally, navigate to Team-Incredible folder in terminal and run
 Run:
   php -S localhost:8000 in the HNG-Script folder
 
